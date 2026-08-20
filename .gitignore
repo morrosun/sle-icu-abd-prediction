@@ -1,0 +1,27 @@
+# --- Patient data (PhysioNet DUA) ---
+data/
+*.csv
+*.parquet
+*.rds
+
+# --- Analysis outputs ---
+output/
+*.docx
+*.png
+*.svg
+*.html
+*.bak
+
+# --- Manuscript / session artifacts ---
+html/
+.workbuddy/
+cov.log
+sanitize_repo.py
+*_chk.txt
+verify_*
+
+# --- Python ---
+__pycache__/
+*.pyc
+*.egg-info/
+.venv/
