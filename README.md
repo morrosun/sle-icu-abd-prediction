@@ -57,4 +57,6 @@ MIT — see [LICENSE](LICENSE).
 
 ## Citation
 
-*To be updated after publication (Zenodo DOI will be added here).*
+If you use this code in your research, please cite the Zenodo record:/n/n> Wang, Kai. (2026). sle-icu-abd-prediction: analysis code for early benzodiazepine exposure and acute brain dysfunction in critically ill SLE patients (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.22022351
+
+Version DOI: `10.5281/zenodo.22022351` · Concept DOI: `10.5281/zenodo.22022350` · Repository: https://github.com/morrosun/sle-icu-abd-prediction
